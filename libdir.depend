@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1782728171 source:d:\codeblocks\c_snippets\libdir\libdir.c
+	"libdir.h"
+	<stdlib.h>
+	<dirent.h>
+	<sys/stat.h>
+	"libfile.h"
+
+1782728056 d:\codeblocks\c_snippets\libdir\libdir.h
+	<stdio.h>
+
